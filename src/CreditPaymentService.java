@@ -8,6 +8,4 @@ public class CreditPaymentService {
         return paymentEnd;
     }
 }
-//m*(1+m).n : ((1+m).n-1)
-//m = процентная ставка в месяц
-// n= количество платижей
+
